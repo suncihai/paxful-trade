@@ -1,0 +1,49 @@
+{
+  "name": "connected-react-router-typescript-boilerplate",
+  "version": "1.0.0",
+  "description": "A basic example for Connected React Router with TypeScript",
+  "main": "src/index.tsx",
+  "scripts": {
+    "dev": "webpack-dev-server --port 3000 --open 'google chrome'",
+    "build": "webpack"
+  },
+  "author": "Supasate Choochaisri",
+  "license": "MIT",
+  "devDependencies": {
+    "react-hot-loader": "^3.1.3"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.27",
+    "@fortawesome/free-solid-svg-icons": "^5.12.1",
+    "@fortawesome/react-fontawesome": "^0.1.8",
+    "@types/history": "^4.7.5",
+    "@types/react": "^16.9.23",
+    "@types/react-dom": "^16.9.5",
+    "@types/react-hot-loader": "^4.1.1",
+    "@types/react-redux": "^7.1.7",
+    "@types/react-router": "^5.1.4",
+    "@types/react-router-dom": "^5.1.3",
+    "@types/redux": "^3.6.0",
+    "@types/styled-components": "^5.0.1",
+    "@types/webpack-env": "^1.15.1",
+    "connected-react-router": "^4.4.0",
+    "file-loader": "^5.1.0",
+    "history": "^4.6.1",
+    "js-cookie": "^2.2.1",
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "react-redux": "^5.0.4",
+    "react-router": "^5.1.2",
+    "react-router-dom": "^5.1.2",
+    "redux": "^3.6.0",
+    "styled-components": "^5.0.1",
+    "ts-loader": "^6.2.1",
+    "tslib": "^1.11.0",
+    "typescript": "^3.8.3",
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
+  }
+}
